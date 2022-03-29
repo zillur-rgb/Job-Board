@@ -2,6 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { Wrapper } from "./App.style";
 import Header from "./Components/Header/Header";
+import SearchBar from "./Components/SearchBar/SearchBar";
 
 function App() {
   const [jobs, setJobs] = useState([]);
@@ -14,6 +15,7 @@ function App() {
   return (
     <Wrapper>
       <Header />
+      <SearchBar />
     </Wrapper>
   );
 }

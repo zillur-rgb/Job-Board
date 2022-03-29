@@ -1,13 +1,13 @@
 import styled from "styled-components";
 
 export const HeaderPreContainer = styled.div`
-  height: 80px;
+  height: 120px;
   background-image: url("Background.jpg");
+  border-radius: 0 0 0 70px;
 `;
 
 export const HeaderContainer = styled.div`
   max-width: 100vw;
-  height: 100%;
   margin: 20px 10%;
   display: flex;
   align-items: center;
