@@ -9,6 +9,7 @@ export const SearchContainer = styled.form`
   display: flex;
   align-items: center;
   justify-content: center;
+  border-radius: 7px;
 `;
 
 export const InputForm = styled.input`
