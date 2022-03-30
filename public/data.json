@@ -5,45 +5,7 @@
     "company": "Scoot",
     "country": "United Kingdom",
     "posted": "5h",
-    "jobtype": "FullTime",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "FullTime"
   },
   {
     "id": 2,
@@ -51,45 +13,7 @@
     "company": "Blogr",
     "country": "United States",
     "posted": "20h",
-    "jobtype": "Part Time",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "Part Time"
   },
   {
     "id": 3,
@@ -97,45 +21,7 @@
     "company": "Vector",
     "country": "Russia",
     "posted": "1d",
-    "jobtype": "Full Time",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "Full Time"
   },
   {
     "id": 4,
@@ -143,45 +29,7 @@
     "company": "Office Lite",
     "country": "Japan",
     "posted": "2d",
-    "jobtype": "Full- Time",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "Full- Time"
   },
   {
     "id": 5,
@@ -189,45 +37,7 @@
     "company": "Pod",
     "country": "Thailand",
     "posted": "2d",
-    "jobtype": "Part Time",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "Part Time"
   },
   {
     "id": 6,
@@ -235,45 +45,7 @@
     "company": "Creative",
     "country": "Germany",
     "posted": "4d",
-    "jobtype": "Part Time",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "Part Time"
   },
   {
     "id": 7,
@@ -281,45 +53,7 @@
     "company": "Pomodoro",
     "country": "United States",
     "posted": "1w",
-    "jobtype": "Full Time",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "Full Time"
   },
   {
     "id": 8,
@@ -327,45 +61,7 @@
     "company": "Maker",
     "country": "United Kingdom",
     "posted": "1w",
-    "jobtype": "Full Time",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "Full Time"
   },
   {
     "id": 9,
@@ -373,45 +69,7 @@
     "company": "Coffeeroasters",
     "country": "Singapore",
     "posted": "1w",
-    "jobtype": "Part Time",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "Part Time"
   },
   {
     "id": 10,
@@ -419,45 +77,7 @@
     "company": "Masterscraft",
     "country": "United States",
     "posted": "2w",
-    "jobtype": "Freelance",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "Freelance"
   },
   {
     "id": 11,
@@ -465,45 +85,7 @@
     "company": "Crowdfund",
     "country": "New Zealand",
     "posted": "1mo",
-    "jobtype": "Part Time",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "Part Time"
   },
   {
     "id": 12,
@@ -511,44 +93,6 @@
     "company": "Typemaster",
     "country": "United Kingdom",
     "posted": "1mo",
-    "jobtype": "Part Time",
-    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-    "requirements": [
-      {
-        "id": 1,
-        "text": "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
-    ],
-
-    "task": [
-      {
-        "id": 1,
-        "text": "quaerat voluptatem. incidunt ut labore et dolore magnam aliquam Ut enim ad minima veniam,"
-      },
-      {
-        "id": 2,
-        "text": "suscipit laboriosam, quis nostrum exercitationem ullam corporis nisi ut aliquid ex ea commodi consequatur?"
-      },
-      {
-        "id": 3,
-        "text": "qui in ea voluptate velit Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil"
-      },
-      {
-        "id": 4,
-        "text": "molestiae dolorem eum fugiat quo voluptas nulla pariatur? consequatur, vel illum qui"
-      }
-    ]
+    "jobtype": "Part Time"
   }
 ]

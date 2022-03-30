@@ -1,19 +1,24 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { Wrapper } from "./App.style";
 import Header from "./Components/Header/Header";
-import Homepage from "./Pages/Homepage/Homepage";
+import Jobs from "./Components/Jobs/Jobs";
+import SearchBar from "./Components/SearchBar/SearchBar";
 
 function App() {
+  const [jobs, setJobs] = useState([]);
+
+  useEffect(() => {
+    axios.get("data.json").then((res) => {
+      setJobs(res.data);
+    });
+  }, []);
   return (
-    <div>
+    <Wrapper>
       <Header />
-      <BrowserRouter>
-        <Routes>
-          <Route path="/" element={<Homepage />} />
-        </Routes>
-      </BrowserRouter>
-    </div>
+      <SearchBar />
+      <Jobs jobs={jobs} />
+    </Wrapper>
   );
 }
 
