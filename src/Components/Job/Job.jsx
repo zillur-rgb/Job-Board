@@ -12,10 +12,10 @@ const Job = ({ job }) => {
         </div>
         <p>{job.jobtype}</p>
       </NormalTextDiv>
-      <p>
+      <p style={{ color: "#0c1a2a", fontSize: "1.2rem" }}>
         <b>{job.title}</b>
       </p>
-      <p>{job.company}</p>
+      <NormalTextDiv>{job.company}</NormalTextDiv>
       <p>{job.country}</p>
     </Card>
   );
