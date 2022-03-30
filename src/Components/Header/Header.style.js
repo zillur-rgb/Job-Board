@@ -8,7 +8,7 @@ export const HeaderPreContainer = styled.div`
 
 export const HeaderContainer = styled.div`
   max-width: 100vw;
-  margin: 20px 10%;
+  margin: 0px 10% 20px;
   display: flex;
   align-items: center;
   justify-content: space-between;
