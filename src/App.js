@@ -7,8 +7,8 @@ import { Wrapper } from "./App.style";
 function App() {
   return (
     <Wrapper>
-      <Header />
       <BrowserRouter>
+        <Header />
         <Routes>
           <Route path="/" element={<Homepage />} />
           <Route path="/:id" element={<SingleJob />} />

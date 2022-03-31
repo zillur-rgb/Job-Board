@@ -3,6 +3,7 @@ import {
   ModeButton,
   HeaderContainer,
   HeaderPreContainer,
+  AllLinks,
 } from "./Header.style";
 
 const Header = () => {
@@ -13,7 +14,9 @@ const Header = () => {
   return (
     <HeaderPreContainer>
       <HeaderContainer>
-        <h4 style={{ fontSize: "1.5rem", color: "#fff" }}>DevJobs</h4>
+        <AllLinks to={"/"}>
+          <h4 style={{ fontSize: "1.5rem", color: "#fff" }}>DevJobs</h4>
+        </AllLinks>
         <ModeButton onClick={toggleDark}>
           Switch to {dark ? "light" : "dark"}
         </ModeButton>

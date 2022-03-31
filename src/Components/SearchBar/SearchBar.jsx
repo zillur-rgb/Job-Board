@@ -1,4 +1,5 @@
 import React from "react";
+import ButtonComponent from "../Button/Button";
 import { InputForm, SearchContainer, SubmitBtn } from "./SearchBar.style";
 
 const SearchBar = ({
@@ -47,7 +48,7 @@ const SearchBar = ({
         Fulltime Only
       </label>
 
-      <SubmitBtn>Search</SubmitBtn>
+      <ButtonComponent bg="#0c1a2a" color="#eee" text="Search" />
     </SearchContainer>
   );
 };

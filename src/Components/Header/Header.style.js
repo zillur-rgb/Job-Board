@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import { Link } from "react-router-dom";
 export const HeaderPreContainer = styled.div`
   height: 120px;
   background-image: url("Background.jpg");
@@ -19,4 +19,8 @@ export const ModeButton = styled.button`
   background-color: #eee;
   border: none;
   cursor: pointer;
+`;
+
+export const AllLinks = styled(Link)`
+  text-decoration: none;
 `;
