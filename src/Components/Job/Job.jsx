@@ -4,8 +4,8 @@ import { Card, NormalTextDiv } from "./Job.style";
 
 const Job = ({ job }) => {
   return (
-    <Card>
-      <AllLinks to={`/${job.id}`}>
+    <AllLinks to={`/${job.id}`}>
+      <Card>
         <NormalTextDiv>
           <p>{job.posted} ago</p>
           <div>
@@ -13,13 +13,13 @@ const Job = ({ job }) => {
           </div>
           <p>{job.jobtype}</p>
         </NormalTextDiv>
-        <p style={{ color: "#0c1a2a", fontSize: "1.2rem" }}>
+        <p style={{ color: "#0c1a2a", fontSize: "1.2rem", margin: "5px 0" }}>
           <b>{job.title}</b>
         </p>
         <NormalTextDiv>{job.company}</NormalTextDiv>
         <p>{job.country}</p>
-      </AllLinks>
-    </Card>
+      </Card>
+    </AllLinks>
   );
 };
 

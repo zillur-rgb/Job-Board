@@ -20,7 +20,7 @@ const SingleJob = () => {
     });
   }, []);
 
-  const singleJob = jobs?.find((job) => +params.id === job.id);
+  const singleJob = jobs.find((job) => +params.id === job.id);
 
   if (singleJob) {
     console.log(singleJob);
@@ -32,7 +32,7 @@ const SingleJob = () => {
         <MainDiv>
           <About>
             <div>
-              {singleJob.company} <br />
+              <b>{singleJob.company}</b> <br />
               <a
                 href="www.google.com"
                 target="_blank"
@@ -125,7 +125,7 @@ const SingleJob = () => {
           </Info>
 
           <About>
-            <div style={{ color: "rgba(12, 26, 42, 0.7)" }}>
+            <div style={{ color: "rgba(12, 26, 42, 0.7)", fontWeight: "bold" }}>
               {singleJob.title}
               <p style={{ margin: "5px 0" }}>{singleJob.company}</p>
             </div>

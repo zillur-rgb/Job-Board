@@ -9,6 +9,7 @@ const Homepage = () => {
   const [title, setTitle] = useState("");
   const [company, setCompany] = useState("");
   const [checkbox, setCheckbox] = useState(false);
+  const [searchRes, setSearchRes] = useState([]);
   console.log(checkbox);
 
   useEffect(() => {
@@ -24,13 +25,23 @@ const Homepage = () => {
       job.title.toLowerCase().includes(title.toLowerCase())
     );
 
-    // console.log(searchedByTitle);
+    console.log(searchedByTitle);
 
-    let searchByCompany = searchedByTitle.filter((job) =>
-      job.company.toLowerCase().includes(company.toLowerCase())
-    );
+    let searchByCompany = searchedByTitle
+      ? searchedByTitle.filter((job) =>
+          job.country.toLowerCase().includes(company.toLowerCase())
+        )
+      : jobs.filter((job) =>
+          job.country.toLowerCase().includes(company.toLowerCase())
+        );
 
-    // console.log(searchByCompany);
+    console.log(searchByCompany);
+
+    const searchByCheckbox =
+      checkbox && searchByCompany
+        ? searchedByTitle.filter((job) => job.jobtype === "Fulltime")
+        : searchByCompany;
+    console.log(searchByCheckbox);
 
     setTitle("");
     setCompany("");

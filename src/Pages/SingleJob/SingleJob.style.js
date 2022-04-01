@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const MainDiv = styled.div`
-  margin: 30px 20%;
+  margin: 30px 30%;
 `;
 
 export const About = styled.div`

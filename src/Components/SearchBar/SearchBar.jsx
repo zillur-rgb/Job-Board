@@ -1,6 +1,6 @@
 import React from "react";
 import ButtonComponent from "../Button/Button";
-import { InputForm, SearchContainer, SubmitBtn } from "./SearchBar.style";
+import { InputForm, SearchContainer } from "./SearchBar.style";
 
 const SearchBar = ({
   title,
