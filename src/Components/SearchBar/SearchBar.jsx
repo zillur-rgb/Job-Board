@@ -1,18 +1,23 @@
-import React from "react";
+import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 import ButtonComponent from "../Button/Button";
 import { InputForm, SearchContainer } from "./SearchBar.style";
 
-const SearchBar = ({
-  title,
-  setTitle,
-  company,
-  setCompany,
-  handleSearch,
-  checkbox,
-  setCheckbox,
-}) => {
+const SearchBar = () => {
+  const [title, setTitle] = useState("");
+  const [country, setCountry] = useState("");
+  const [checkbox, setCheckbox] = useState(false);
+  // const [searchRes, setSearchRes] = useState([]);
+  const navigate = useNavigate();
+
+  const submitHandler = (e) => {
+    e.preventDefault();
+    setTitle("");
+    navigate(`/${title}`);
+  };
+
   return (
-    <SearchContainer onSubmit={handleSearch}>
+    <SearchContainer onSubmit={submitHandler}>
       <InputForm
         value={title}
         onChange={(e) => setTitle(e.target.value)}
@@ -20,9 +25,9 @@ const SearchBar = ({
         placeholder="Filter by title"
       />
       <InputForm
-        value={company}
+        value={country}
         onChange={(e) => {
-          setCompany(e.target.value);
+          setCountry(e.target.value);
         }}
         type="text"
         placeholder="Filter by company name"
