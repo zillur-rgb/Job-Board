@@ -13,7 +13,7 @@ Assignment-10 for Programming Hero
 
 ## Overview
 
-The task was to create a Fullstack Warehouse Inventory Management app.
+The task wis to create a simple Job Application portal.
 
 ### The challenges
 
@@ -24,57 +24,39 @@ The task was to create a Fullstack Warehouse Inventory Management app.
 
 ### How it works
 
-- Wheel Wave is a 3rd Party cycle supplier who sells cycle of other companies. So this homepage was mainly for suppliers.
-- Supplier can see all the products including competitors and also they can supply competitor's product as well. Let's assume it's a good world and nobody harms other.
-- If a supplier deliver a product from his or other company's he can update the quantity of the product by clicking delivered.
-- In the Navbar if someone is not logged in he can see Products Catalog menu but if he loggedin then he can see manage inventory menu.
-- When someone hits delivered, the the quantity will be reduced and sold value will be increased. For this, supplier must be logged in.
-- Beside if a supplier wants to restock the product, he can use the little input field and hit restock button. For this, supplier must be logged in.
-- A supplier can delete only his product and also if he wants to he can add new product by clicking Add New Product on the manage inventory page.
-- After loggedin there will be a dropdown menu in the area where his name is displayed. By using dropdown menu supplier can see many other options.
-- If someone is a writer, he can express difference experience by hitting add new blog on the blogs route.
-- Now about authentication, user can sign in using existing email password or using social media link.
-- One can also signup with new information, and after sign up a Email verfication link will be sent to his/ her email.
-- If anyone forgets the password, he can always reset the password.
+- There will be some latest jobs that will be listed on the homepage.
+- User can click on any job to learn more about the job.
+- User can search for the job with different filters.
 
 ### Links
 
-- Github Link: [https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-zillur-rgb](https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-zillur-rgb)
-- Live URL: [https://wheel-wave.web.app/](https://wheel-wave.web.app/)
+- [Github Link](https://github.com/zillur-rgb/Job-Board)
+- [Live URL](https://funny-unicorn-464ca5.netlify.app/)
 
 ### Built with
 
 - ReactJS
-- NodeJs
-- ExpressJs
-- Mongoose
-- MongoDB Atlas
-- Firebase
-- Heroku
-- React Firebase Hooks
-- React Custom Hook
+- Styled Components
 - React Router
-- React Bootstrap
+- React Icons
 - HTML 5
 
 ### What I learned
 
-- It was really fun to hands on a project like a real project I used to do when I was in the design profession.
-- I have learned deploying server to Heroku, Working with Mongoose. Creating my own REST API.
+- I have started learning Styled Components with my this project.
 
 ### Continued development
 
-I will need to work with Json Web Token and also I will add some other functions for the user. Besides, I will try to make it more user friendly.
+It can be developed a lot and I will aim for this very soon. For example, signup signin could be implemented. Also there could be an option for user to apply really.
 
 ### Useful resources
 
-- Programming Hero Website
+- Styled Components Docs
 - www.csstricks.com
-- www.console.firebase.google.com
-- www.stackoverflow.com
+- React Js Docs
 -
 
 ## Author
 
 - Dribbble - [Dribbble Link](https://dribbble.com/zillur-rgb)
-- Github- [Github Link]](https://github.com/zillur-rgb)
+- Github- [Github Link](https://github.com/zillur-rgb)
