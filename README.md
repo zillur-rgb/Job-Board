@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+Assignment-10 for Programming Hero
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of contents
 
-## Available Scripts
+- [Overview](#overview)
+  - [The challenge and How it works](#The-challenge-and-How-it-works)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [Author](#author)
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+The task was to create a Fullstack Warehouse Inventory Management app.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### The challenges
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- The challenge was to make Backend Frontend and also Database where I can do CRUD(Create, Read, Update, Delete) operation.
+- For frontend challenging part was to create functioning authentication system.
+- Besides there are a lot of routes I need to work with and sometimes it was challenging to maintain.
+- But overall it was a fun project. I really enjoyed.
 
-### `npm test`
+### How it works
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Wheel Wave is a 3rd Party cycle supplier who sells cycle of other companies. So this homepage was mainly for suppliers.
+- Supplier can see all the products including competitors and also they can supply competitor's product as well. Let's assume it's a good world and nobody harms other.
+- If a supplier deliver a product from his or other company's he can update the quantity of the product by clicking delivered.
+- In the Navbar if someone is not logged in he can see Products Catalog menu but if he loggedin then he can see manage inventory menu.
+- When someone hits delivered, the the quantity will be reduced and sold value will be increased. For this, supplier must be logged in.
+- Beside if a supplier wants to restock the product, he can use the little input field and hit restock button. For this, supplier must be logged in.
+- A supplier can delete only his product and also if he wants to he can add new product by clicking Add New Product on the manage inventory page.
+- After loggedin there will be a dropdown menu in the area where his name is displayed. By using dropdown menu supplier can see many other options.
+- If someone is a writer, he can express difference experience by hitting add new blog on the blogs route.
+- Now about authentication, user can sign in using existing email password or using social media link.
+- One can also signup with new information, and after sign up a Email verfication link will be sent to his/ her email.
+- If anyone forgets the password, he can always reset the password.
 
-### `npm run build`
+### Links
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Github Link: [https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-zillur-rgb](https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-zillur-rgb)
+- Live URL: [https://wheel-wave.web.app/](https://wheel-wave.web.app/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Built with
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- ReactJS
+- NodeJs
+- ExpressJs
+- Mongoose
+- MongoDB Atlas
+- Firebase
+- Heroku
+- React Firebase Hooks
+- React Custom Hook
+- React Router
+- React Bootstrap
+- HTML 5
 
-### `npm run eject`
+### What I learned
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- It was really fun to hands on a project like a real project I used to do when I was in the design profession.
+- I have learned deploying server to Heroku, Working with Mongoose. Creating my own REST API.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Continued development
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+I will need to work with Json Web Token and also I will add some other functions for the user. Besides, I will try to make it more user friendly.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Useful resources
 
-## Learn More
+- Programming Hero Website
+- www.csstricks.com
+- www.console.firebase.google.com
+- www.stackoverflow.com
+-
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Author
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Dribbble - [Dribbble Link](https://dribbble.com/zillur-rgb)
+- Github- [Github Link]](https://github.com/zillur-rgb)
